@@ -1,6 +1,6 @@
 name: Solomon Obie
-located_in: Lund, Sweden
-current_job: Talent Intelligence Analyst
+located_in: Sweden
+current_job: Senior Talent Partner
 education:
   [
     "Self-Taught Data Analyst",
